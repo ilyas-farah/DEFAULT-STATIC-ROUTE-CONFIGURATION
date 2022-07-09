@@ -34,3 +34,4 @@ Default Static Route
 R1
 -----
 ip route 0.0.0.0 0.0.0.0 12.0.0.2
+![Default Static Routing](https://user-images.githubusercontent.com/106605770/178120409-442de5cb-0dea-4f19-bdb2-c1f022311122.PNG)
